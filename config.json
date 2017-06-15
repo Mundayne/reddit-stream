@@ -1,0 +1,14 @@
+{
+  "token": "your_bot_token",
+  "prefix": "dm:",
+  "subreddit": "dankmemes",
+  "items": 5,
+  "server": "your_server_id",
+  "channel": "your_channel_id",
+
+  "bot": {
+    "id": "RC2y3aAIJyBpag",
+    "secret": "I'll give you this in a message - keep it secret",
+    "uri": "http://www.example.com/redditoauth"
+  }
+}
