@@ -11,6 +11,7 @@ If you're going to be running this on your computer, create a bot account by goi
 Once you've created a new application, create a bot account for it by clicking the corresponding button on the above page.
 Then, get your bot's 'token', by clicking the 'reveal token' button on that same page. Copy-paste this into `config.json`, 
 in the token field (currently it should say "your_bot_token").
+You'll also need to invite the bot to your server. Do this by going to the link 'https://discordapp.com/oauth2/authorize?&client_id=YOUR_CLIENT_ID_HERE&scope=bot&permissions=0', where you replace 'YOUR_CLIENT_ID_HERE' with the client ID of the bot, which is found on the same page as all the rest.
 
 The penultimate task is to get your guild and channel IDs for the channel the bot will be posting to. To do this, 
 open discord and navigate through the 'User Settings' menu to 'Appearance', then scroll down and enable 'Developer Mode' option.
